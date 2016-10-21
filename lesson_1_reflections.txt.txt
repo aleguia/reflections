@@ -1,0 +1,6 @@
+ comparing files usign fc or diff, in case of Windows and OSX respectively is very useful for the purposes of this course and many others
+
+ How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+ first of all, to see how much and how long it takes to think and write the code
+ secondally to see how many improvement you made until the actual version
+ and third to work "safely" in a newer version knowing you have the option to go back looking for a previous version and restore it.
